@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/Projects/GitHub/TensorFlow/DATAGURU-2017-TensorFlow/TensorFlow-week05-homework/projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "D:/Projects/GitHub/TensorFlow/DATAGURU-2017-TensorFlow/TensorFlow-week05-homework/projector/projector/a_model.ckpt-1001"
