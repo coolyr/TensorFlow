@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "D:/Projects/GitHub/TensorFlow/DATAGURU-2017-TensorFlow/TensorFlow-week05-homework/projector/projector/metadata.tsv"
+  sprite {
+    image_path: "D:/Projects/GitHub/TensorFlow/DATAGURU-2017-TensorFlow/TensorFlow-week05-homework/projector/data/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
